@@ -1,0 +1,1 @@
+web gunicorn testlink.wsgi:application --log-file
